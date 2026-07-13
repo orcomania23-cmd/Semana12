@@ -1,0 +1,11 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Apoyo
+id
+causa_id
+nombre
+fecha
